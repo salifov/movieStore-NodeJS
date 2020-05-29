@@ -6,3 +6,5 @@
 {"level":"info","message":"Connected to mongodb+srv://admin:1234@moviestore-ofwx7.mongodb.net/test?retryWrites=true...","timestamp":"2020-05-29T14:06:41.999Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2020-05-29T14:30:40.675Z"}
 {"level":"info","message":"Connected to mongodb+srv://admin:1234@moviestore-ofwx7.mongodb.net/test?retryWrites=true...","timestamp":"2020-05-29T14:30:41.662Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-05-29T14:53:29.946Z"}
+{"level":"info","message":"Connected to mongodb+srv://admin:1234@moviestore-ofwx7.mongodb.net/test?retryWrites=true...","timestamp":"2020-05-29T14:53:30.975Z"}
