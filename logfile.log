@@ -1,2 +1,6 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2020-05-29T12:32:40.104Z"}
 {"level":"info","message":"Connected to mongodb://localhost/moviestore...","timestamp":"2020-05-29T12:32:40.172Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-05-29T14:04:08.084Z"}
+{"level":"info","message":"Connected to mongodb://localhost/moviestore...","timestamp":"2020-05-29T14:04:08.158Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-05-29T14:06:40.983Z"}
+{"level":"info","message":"Connected to mongodb+srv://admin:1234@moviestore-ofwx7.mongodb.net/test?retryWrites=true...","timestamp":"2020-05-29T14:06:41.999Z"}
